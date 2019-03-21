@@ -1,0 +1,19 @@
+Number of vertices: 6
+Number of edges: 6
+Number of vertices: 6
+Number of edges: 5
+Depth search--------------------
+Visited: 1
+Visited: 2
+Visited: 4
+Visited: 0
+Visited: 5
+Visited: 3
+Breadth search--------------------
+Visited: 1
+Visited: 2
+Visited: 3
+Visited: 4
+Visited: 0
+Visited: 5
+Edge weight between 1 and 3 is: 5000
